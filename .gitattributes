@@ -1,0 +1,8 @@
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+*.hpp linguist-language=C++
+*.bpr linguist-language=C++
+*.pro linguist-language=C++
+*.res linguist-language=C++
+*.ddp linguist-language=C++
+*.dfm linguist-language=C++
